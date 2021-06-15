@@ -3,6 +3,7 @@
   The purpose of this analysis is to cautiously use Citibike ride sharing data for New York City to help guide an investment decision by the board of Des Moines Rides Bikesharing   to set up a similar business in Des Moines, Iowa. The metrics to use include, gender behaviour (when it comes to bike sharing), customer type, weekedays and hourly usage           patterns. Despite differences in size between New York and Des Moines, these patterns are not likely to be too different.
   Tableau is used as the tool of analysis because it would give a visually powerful and easy to understand presentation to the board.
 ## Results:
+  https://public.tableau.com/app/profile/zubair.ahmed3109/viz/NYC_Citibike_Challenge_Final/Citibike_Story
 
 ## Summary:
   - The number of trips in New York in August is over 2.3m, correspondingly there would be hundreds of thousands in Des Moines.
